@@ -1,0 +1,16 @@
+{
+  "name": "twitch-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twitch-m3u8": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
